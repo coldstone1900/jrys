@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.3",
   "update": {
-    "version": "1.0",
+    "version": "1.1",
     "message": ""
   },
-  "review": 0,
   "drawer": {
     "txt": "人是为了活着本身而活着，而不是为了活着之外的任何事物而活着。",
     "author": "《活着》",
-    "bg": "https://ddrk.me/douban_cache/1292365.jpg"
+    "bg": "https://i0.hdslb.com/bfs/article/150a8e54beb0609034782a661d96b6eccb6906c2.jpg@750w_980h_progressive.webp"
   },
   "search_hint_text": "请输入关键词，如\"活着\"",
-  "link_type": 0
+  "link_type": 0,
+  "review": 0
 }

@@ -1,9 +1,12 @@
 {
-  "version": "1.1.3",
+  "version": "1.2.1",
   "update": {
-    "version": "1.1",
+    "version": "1.2",
     "message": ""
   },
+  "live_mp4s": [
+    ".mp4"
+  ],
   "drawer": {
     "txt": "人是为了活着本身而活着，而不是为了活着之外的任何事物而活着。",
     "author": "《活着》",
@@ -11,5 +14,6 @@
   },
   "search_hint_text": "请输入关键词，如\"活着\"",
   "link_type": 0,
-  "review": 0
+  "review": 0,
+  "removed_js": "var header=document.getElementById('header');header.style.display='none';var comments=document.getElementById('comments');comments.style.display='none';var searchIcon=document.getElementsByClassName('search-icon')[0];searchIcon.style.display='none';var metadata=document.getElementsByClassName('metadata')[0];metadata.style.display='none';var entry=document.getElementsByClassName('entry')[0];var divElement0=entry.getElementsByTagName('div')[0];divElement0.style.display='none';var crp_related=document.getElementsByClassName('crp_related')[0];crp_related.style.display='none';var strongElement0=document.getElementsByTagName('strong')[0];var navLinksElement=document.getElementsByClassName('nav-links')[0];navLinksElement.style.display='none';var cfa_popup=document.getElementsByClassName('cfa_popup')[0];cfa_popup.style.display='none';"
 }

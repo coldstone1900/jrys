@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.1",
   "update": {
-    "version": "1.4",
-    "message": ""
+    "version": "1.5",
+    "message": "修复了一些问题"
   },
   "host": "https://ddrk.me",
   "host_short": "ddrk.me",

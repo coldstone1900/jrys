@@ -1,11 +1,11 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "update": {
     "version": "1.7",
     "message": "修复了一些问题"
   },
-  "host": "https://ddrk.me",
-  "host_short": "ddrk.me",
+  "host": "https://ddys.tv",
+  "host_short": "ddys.tv",
   "live_mp4s": [
     ".mp4"
   ],
